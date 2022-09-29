@@ -1,6 +1,6 @@
 # Code of Conduct
 
-The `OptimalEstimation.jl` package adopts the [Berlin Code of Conduct](https://berlincodeofconduct.org/).
+The `ScientificTypesAliases.jl` package adopts the [Berlin Code of Conduct](https://berlincodeofconduct.org/).
 
 ---
 
