@@ -5,6 +5,15 @@ A Julia package that reexports the ScientificTypes.jl convention along with comm
 Please read the [documentation](https://ap6yc.github.io/ScientificTypesAliases.jl/dev/) for detailed usage and tutorials.
 
 - [ScientificTypesAliases.jl](#scientifictypesaliasesjl)
+  - [Overview](#overview)
+  - [Installation](#installation)
+  - [Quickstart](#quickstart)
+  - [Structure](#structure)
+  - [Contributing](#contributing)
+  - [History](#history)
+  - [Acknowledgements](#acknowledgements)
+    - [Authors](#authors)
+  - [License](#license)
 
 ## Overview
 
