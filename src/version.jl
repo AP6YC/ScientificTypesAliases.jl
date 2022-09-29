@@ -11,9 +11,7 @@ Credits:
 - MLJ.jl: https://github.com/alan-turing-institute/MLJ.jl
 """
 
-import Pkg
-
-# using Pkg.TOML
+using Pkg
 
 const STA_VERSION = VersionNumber(
     Pkg.TOML.parsefile(joinpath(dirname(@__DIR__), "Project.toml"))["version"]

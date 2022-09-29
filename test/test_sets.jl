@@ -10,9 +10,16 @@ end
 
 @testset "Functions" begin
 
-    function test_types(a::Continuous)
+    function test_types(a::scitype(Continuous))
         print(typeof(a))
     end
+
+    function TypeTest(num::Count)
+        println(num)
+        println(typeof(num))
+    end
+
+    TypeTest(1)
 
     a = 0
     @test_throws ErrorException test_types(a)
